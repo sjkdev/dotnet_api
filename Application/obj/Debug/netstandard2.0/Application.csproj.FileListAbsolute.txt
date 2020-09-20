@@ -1,0 +1,14 @@
+/Users/apple/dotnetApps/nc_reactivities/Reactivities/Application/bin/Debug/netstandard2.0/Application.deps.json
+/Users/apple/dotnetApps/nc_reactivities/Reactivities/Application/bin/Debug/netstandard2.0/Application.dll
+/Users/apple/dotnetApps/nc_reactivities/Reactivities/Application/bin/Debug/netstandard2.0/Application.pdb
+/Users/apple/dotnetApps/nc_reactivities/Reactivities/Application/bin/Debug/netstandard2.0/Domain.dll
+/Users/apple/dotnetApps/nc_reactivities/Reactivities/Application/bin/Debug/netstandard2.0/Persistence.dll
+/Users/apple/dotnetApps/nc_reactivities/Reactivities/Application/bin/Debug/netstandard2.0/Domain.pdb
+/Users/apple/dotnetApps/nc_reactivities/Reactivities/Application/bin/Debug/netstandard2.0/Persistence.pdb
+/Users/apple/dotnetApps/nc_reactivities/Reactivities/Application/obj/Debug/netstandard2.0/Application.csprojAssemblyReference.cache
+/Users/apple/dotnetApps/nc_reactivities/Reactivities/Application/obj/Debug/netstandard2.0/Application.AssemblyInfoInputs.cache
+/Users/apple/dotnetApps/nc_reactivities/Reactivities/Application/obj/Debug/netstandard2.0/Application.AssemblyInfo.cs
+/Users/apple/dotnetApps/nc_reactivities/Reactivities/Application/obj/Debug/netstandard2.0/Application.csproj.CoreCompileInputs.cache
+/Users/apple/dotnetApps/nc_reactivities/Reactivities/Application/obj/Debug/netstandard2.0/Application.csproj.CopyComplete
+/Users/apple/dotnetApps/nc_reactivities/Reactivities/Application/obj/Debug/netstandard2.0/Application.dll
+/Users/apple/dotnetApps/nc_reactivities/Reactivities/Application/obj/Debug/netstandard2.0/Application.pdb
